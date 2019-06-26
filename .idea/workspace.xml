@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/books/Machine Learning in Action.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/1.机器学习实战-复习版.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/直播问题汇总.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/activators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/bp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/cnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/fc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/linear_unit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/lstm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/perceptron.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/recursive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/rnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/1.MLFoundation/NumPy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/kMeans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/kMeansSklearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/11.Apriori/apriori.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/12.FrequentPattemTree/fpGrowth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/13.PCA/pca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/14.SVD/svdRecommend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMeanMapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMeanReducer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrSVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrSVMkickStart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/pegasos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/proximalSVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/py27dbg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/wc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/2.KNN/kNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/2.KNN/sklearn-knn-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/DTSklearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/DecisionTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/decisionTreePlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/skelearn_dts_regressor_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/sklearn_dts_classify_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/4.NaiveBayes/bayes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/4.NaiveBayes/sklearn-nb-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/5.Logistic/logistic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/5.Logistic/sklearn_logisticRegression_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/sklearn-svm-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-complete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-complete_Non-Kernel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.AdaBoost/adaboost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.AdaBoost/sklearn-adaboost-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.RandomForest/randomForest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/8.Regression/regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/8.Regression/sklearn-regression-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/RTSklearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/regTrees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/sklearn-regressTree-demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/treeExplore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/Problem2FunctionTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/Problem2FunctionTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/shampoo-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/shampoo-sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/sp5001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/sp5001.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/activators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/activators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MachineLearning$pytest_in_logistic_py.coverage" NAME="pytest in logistic.py Coverage Results" MODIFIED="1561512015153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py3.x/ml/5.Logistic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1561512195599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py3.x/ml/5.Logistic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2948">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="e#221#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="232" />
+    <option name="width" value="1608" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="py3.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\py3.x" />
+      <recent name="G:\pythonLearningWorkSpace\MachineLearning\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="logistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/py3.x/ml/5.Logistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logistic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="" />
+      <created>1561511588250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561511588250</updated>
+      <workItem from="1561511589704" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_logistic_py - 2019.06.26 at 09h 16m 01s.xml">
+      <configuration name="pytest in logistic.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_logistic_py - 2019.06.26 at 09h 16m 31s.xml">
+      <configuration name="pytest in logistic.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_logistic_py - 2019.06.26 at 09h 20m 15s.xml">
+      <configuration name="pytest in logistic.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="696000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="232" y="0" width="1608" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" weight="0.32945737" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/ml/1.机器学习基础.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4108" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2948">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#221#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

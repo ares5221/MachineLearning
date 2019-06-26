@@ -9,8 +9,10 @@ Author: Peter Harrington/羊三/小瑶/BBruceyuan
 GitHub: https://github.com/apachecn/AiLearning
 """
 
+import os
 import numpy as np
-
+path = os.path.abspath('../../../../')
+print(path)
 
 # ------使用 Logistic 回归在简单数据集上的分类-----------
 
@@ -23,7 +25,7 @@ def load_data_set():
     """
     data_arr = []
     label_arr = []
-    f = open('db/5.Logistic/TestSet.txt', 'r')
+    f = open(path + 'db/5.Logistic/TestSet.txt', 'r')
     for line in f.readlines():
         line_arr = line.strip().split()
         # 为了方便计算，我们将 X0 的值设为 1.0 ，也就是在每一行的开头添加一个 1.0 作为 X0
