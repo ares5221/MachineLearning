@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/books/Machine Learning in Action.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/1.机器学习实战-复习版.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/直播问题汇总.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/activators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/bp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/cnn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/fc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/linear_unit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/lstm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/mnist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/perceptron.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/recursive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/dl/rnn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/1.MLFoundation/NumPy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/kMeans.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/kMeansSklearn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/10.kmeans/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/11.Apriori/apriori.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/12.FrequentPattemTree/fpGrowth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/13.PCA/pca.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/14.SVD/svdRecommend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMeanMapper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrMeanReducer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrSVM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/mrSVMkickStart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/pegasos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/proximalSVM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/py27dbg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/15.BigData_MapReduce/wc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/2.KNN/kNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/2.KNN/sklearn-knn-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/DTSklearn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/DecisionTree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/decisionTreePlot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/skelearn_dts_regressor_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/3.DecisionTree/sklearn_dts_classify_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/4.NaiveBayes/bayes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/4.NaiveBayes/sklearn-nb-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/5.Logistic/logistic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/5.Logistic/sklearn_logisticRegression_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/sklearn-svm-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-complete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-complete_Non-Kernel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/6.SVM/svm-simple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.AdaBoost/adaboost.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.AdaBoost/sklearn-adaboost-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/7.RandomForest/randomForest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/8.Regression/regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/8.Regression/sklearn-regression-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/RTSklearn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/regTrees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/sklearn-regressTree-demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py2.x/ml/9.RegTrees/treeExplore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/Problem2FunctionTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/Problem2FunctionTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/shampoo-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/shampoo-sales.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/17.LSTM/sp5001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/17.LSTM/sp5001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/activators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/activators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/cnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/dl/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/dl/rnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" afterDir="false" />
-    </list>
+    <list default="true" id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +14,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2948">
-              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="244">
+              <caret line="186" column="35" lean-forward="true" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
               <folding>
                 <element signature="e#221#227#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -137,6 +85,21 @@
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="py3.x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="py3.x" type="462c0819:PsiDirectoryNode" />
+              <item name="ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="py3.x" type="462c0819:PsiDirectoryNode" />
+              <item name="ml" type="462c0819:PsiDirectoryNode" />
+              <item name="8.Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561511588250</updated>
-      <workItem from="1561511589704" duration="696000" />
+      <workItem from="1561511589704" duration="2229000" />
     </task>
     <servers />
   </component>
@@ -225,11 +188,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="696000" />
+    <option name="totallyTimeSpent" value="2229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="0" width="1608" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -242,7 +204,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29572836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,13 +230,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2948">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="244">
+          <caret line="186" column="35" lean-forward="true" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
           <folding>
             <element signature="e#221#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
