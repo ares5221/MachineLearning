@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="" />
+    <list default="true" id="9417a655-a96e-440f-9655-7edbc3c52484" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/logistic_regression_example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="186" column="35" lean-forward="true" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
+            <state relative-caret-position="-8">
+              <caret line="186" column="35" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
               <folding>
                 <element signature="e#221#227#0" expanded="true" />
               </folding>
@@ -27,13 +35,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -45,13 +52,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" />
+        <option value="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="116" />
+    <option name="y" value="25" />
     <option name="width" value="1608" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -86,21 +98,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="py3.x" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="py3.x" type="462c0819:PsiDirectoryNode" />
-              <item name="ml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="py3.x" type="462c0819:PsiDirectoryNode" />
-              <item name="ml" type="462c0819:PsiDirectoryNode" />
-              <item name="8.Regression" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -116,6 +113,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\py3.x\ml\8.LinearRegression" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\py3.x" />
       <recent name="G:\pythonLearningWorkSpace\MachineLearning\src" />
@@ -172,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561511588250</updated>
-      <workItem from="1561511589704" duration="2229000" />
+      <workItem from="1561511589704" duration="4972000" />
     </task>
     <servers />
   </component>
@@ -188,10 +188,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2229000" />
+    <option name="totallyTimeSpent" value="4972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="0" width="1608" height="1047" extended-state="0" />
+    <frame x="116" y="25" width="1608" height="1047" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -203,8 +204,8 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29572836" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29572836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,21 +229,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="186" column="35" lean-forward="true" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
+        <state relative-caret-position="-8">
+          <caret line="186" column="35" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
           <folding>
             <element signature="e#221#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/sklearn-regression-demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.Regression/regression.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
