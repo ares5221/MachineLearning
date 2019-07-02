@@ -17,33 +17,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MachineLearning$02regression.coverage" NAME="02regression Coverage Results" MODIFIED="1562038701585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ml/8.Regression" />
     <SUITE FILE_PATH="coverage/MachineLearning$pytest_in_logistic_py.coverage" NAME="pytest in logistic.py Coverage Results" MODIFIED="1561512015153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py3.x/ml/5.Logistic" />
     <SUITE FILE_PATH="coverage/MachineLearning$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1561512195599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py3.x/ml/5.Logistic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$01regression.coverage" NAME="01regression Coverage Results" MODIFIED="1562039360199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ml/8.Regression" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="186" column="35" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
-              <folding>
-                <element signature="e#221#227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.55230767">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-8">
+                  <caret line="186" column="35" selection-start-line="186" selection-start-column="35" selection-end-line="186" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#221#227#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb">
+              <provider selected="true" editor-type-id="ipnb-editor">
+                <state>
+                  <selected id="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/8.回归.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="-247">
+                    <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/01regression.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="29">
+                  <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#33#52#0" expanded="true" />
+                    <element signature="e#431#1203#0" />
+                    <element signature="e#1239#1931#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/02regression.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="341">
+                  <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="479" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#1111#1803#0" />
+                    <element signature="e#1850#3262#0" />
+                    <element signature="e#3311#3791#0" />
+                    <element signature="e#3835#4384#0" />
+                    <element signature="e#4420#4633#0" />
+                    <element signature="e#4678#5422#0" />
+                    <element signature="e#5456#6220#0" />
+                    <element signature="e#6260#6416#0" />
+                    <element signature="e#6471#7232#0" />
+                    <element signature="e#7235#7290#0" />
+                    <element signature="e#8990#9946#0" />
+                    <element signature="e#9984#10312#0" />
+                    <element signature="e#10360#12200#0" />
+                    <element signature="e#12202#12280#0" />
+                    <element signature="e#12796#14246#0" />
+                    <element signature="e#14248#16464#1" />
+                    <element signature="e#17017#17474#0" />
+                    <element signature="e#17525#18829#0" />
+                    <element signature="e#18882#19095#0" />
+                    <element signature="e#19142#19411#0" />
+                    <element signature="e#19464#19548#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/Regression (2).py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2964" />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,12 +128,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/py3.x/ml/5.Logistic/logistic.py" />
         <option value="$PROJECT_DIR$/src/py3.x/ml/8.LinearRegression/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/src/ml/8.Regression/regression.py" />
+        <option value="$PROJECT_DIR$/src/ml/8.Regression/02regression.py" />
+        <option value="$PROJECT_DIR$/src/ml/8.Regression/8.回归.md" />
+        <option value="$PROJECT_DIR$/src/ml/8.Regression/01regression.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="116" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="365" />
+    <option name="y" value="28" />
     <option name="width" value="1608" />
     <option name="height" value="1047" />
   </component>
@@ -96,6 +175,19 @@
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ml" type="462c0819:PsiDirectoryNode" />
+              <item name="8.Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="py3.x" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -114,9 +206,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\ml\8.Regression\Regression" />
       <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\py3.x\ml\8.LinearRegression" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\ml\8.Regression" />
       <recent name="G:\pythonLearningWorkSpace\MachineLearning\src\py3.x" />
       <recent name="G:\pythonLearningWorkSpace\MachineLearning\src" />
     </key>
@@ -133,7 +227,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.01regression">
+    <configuration name="01regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ml/8.Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ml/8.Regression/01regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ml/8.Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ml/8.Regression/02regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="logistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +296,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01regression" />
+        <item itemvalue="Python.02regression" />
         <item itemvalue="Python.logistic" />
       </list>
     </recent_temporary>
@@ -172,7 +312,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561511588250</updated>
-      <workItem from="1561511589704" duration="4972000" />
+      <workItem from="1561511589704" duration="7699000" />
     </task>
     <servers />
   </component>
@@ -188,14 +328,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4972000" />
+    <option name="totallyTimeSpent" value="7699000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="25" width="1608" height="1047" extended-state="1" />
+    <frame x="365" y="28" width="1608" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16020672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -204,13 +344,13 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29572836" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29540482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" weight="0.32945737" />
+      <window_info anchor="right" x="914" y="229" width="728" height="644" id="SciView" type="WINDOWED" visible="true" weight="0.32945737" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,6 +393,63 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/Regression (2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2964" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/02regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="479" selection-end-column="23" />
+          <folding>
+            <element signature="e#1111#1803#0" />
+            <element signature="e#1850#3262#0" />
+            <element signature="e#3311#3791#0" />
+            <element signature="e#3835#4384#0" />
+            <element signature="e#4420#4633#0" />
+            <element signature="e#4678#5422#0" />
+            <element signature="e#5456#6220#0" />
+            <element signature="e#6260#6416#0" />
+            <element signature="e#6471#7232#0" />
+            <element signature="e#7235#7290#0" />
+            <element signature="e#8990#9946#0" />
+            <element signature="e#9984#10312#0" />
+            <element signature="e#10360#12200#0" />
+            <element signature="e#12202#12280#0" />
+            <element signature="e#12796#14246#0" />
+            <element signature="e#14248#16464#1" />
+            <element signature="e#17017#17474#0" />
+            <element signature="e#17525#18829#0" />
+            <element signature="e#18882#19095#0" />
+            <element signature="e#19142#19411#0" />
+            <element signature="e#19464#19548#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/8.回归.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-247">
+            <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ml/8.Regression/01regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="e#33#52#0" expanded="true" />
+            <element signature="e#431#1203#0" />
+            <element signature="e#1239#1931#0" />
+          </folding>
         </state>
       </provider>
     </entry>

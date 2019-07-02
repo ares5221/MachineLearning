@@ -1,11 +1,5 @@
 #!/usr/bin/python
 # coding:utf8
-'''
-Created on Jan 8, 2011
-Update  on 2017-05-18
-Author: Peter Harrington/小瑶
-GitHub: https://github.com/apachecn/AiLearning
-'''
 
 from numpy import *
 import matplotlib.pylab as plt
@@ -482,6 +476,8 @@ def crossValidation(xArr,yArr,numVal=10):
 
 # test for standRegression
 def regression1():
+    path = os.path.abspath('.')
+    print('ssss', path)
     xArr, yArr = loadDataSet("D:\python\MachineLearning\db\8.Regression\data.txt")
     xMat = mat(xArr)
     yMat = mat(yArr)
@@ -576,10 +572,10 @@ def regression5():
 
 
 if __name__ == '__main__':
-    # regression1()
+    regression1()
     # regression2()
     # abaloneTest()
-    regression3()
+    # regression3()
     # regression4()
     # regression5()
     pass
