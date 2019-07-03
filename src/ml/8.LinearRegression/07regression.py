@@ -1,55 +1,5 @@
-#!/usr/bin/python
-# coding:utf8
-
-'''
-Created on Jan 8, 2011
-Update  on 2017-05-18
-Author: Peter Harrington/小瑶
-GitHub: https://github.com/apachecn/AiLearning
-'''
-
-
-# Isotonic Regression 等式回归
-print(__doc__)
-
-# Author: Nelle Varoquaux <nelle.varoquaux@gmail.com>
-#         Alexandre Gramfort <alexandre.gramfort@inria.fr>
-# License: BSD
-
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.collections import LineCollection
-
-from sklearn.linear_model import LinearRegression
-from sklearn.isotonic import IsotonicRegression
-from sklearn.utils import check_random_state
-
-n = 100
-x = np.arange(n)
-rs = check_random_state(0)
-y = rs.randint(-50, 50, size=(n,)) + 50. * np.log(1 + np.arange(n))
-
-ir = IsotonicRegression()
-
-y_ = ir.fit_transform(x, y)
-
-lr = LinearRegression()
-lr.fit(x[:, np.newaxis], y)  # 线性回归的 x 需要为 2d
-
-segments = [[[i, y[i]], [i, y_[i]]] for i in range(n)]
-lc = LineCollection(segments, zorder=0)
-lc.set_array(np.ones(len(y)))
-lc.set_linewidths(0.5 * np.ones(n))
-
-fig = plt.figure()
-plt.plot(x, y, 'r.', markersize=12)
-plt.plot(x, y_, 'g.-', markersize=12)
-plt.plot(x, lr.predict(x[:, np.newaxis]), 'b-')
-plt.gca().add_collection(lc)
-plt.legend(('Data', 'Isotonic Fit', 'Linear Fit'), loc='lower right')
-plt.title('Isotonic regression')
-plt.show()
-
+#!/usr/bin/env python
+# _*_ coding:utf-8 _*_
 # Kernel ridge regression ( 内核岭回归 )
 
 # 2.1 Comparison of kernel ridge regression and SVR ( 内核岭回归与 SVR 的比较 )
@@ -57,7 +7,7 @@ plt.show()
 # Authors: Jan Hendrik Metzen <jhm@informatik.uni-bremen.de>
 # License: BSD 3 clause
 
-'''
+
 from __future__ import division
 import time
 
@@ -122,7 +72,7 @@ sv_ind = svr.best_estimator_.support_
 plt.scatter(X[sv_ind], y[sv_ind], c='r', s=50, label='SVR support vectors',
             zorder=2)
 plt.scatter(X[:100], y[:100], c='k', label='data', zorder=1)
-plt.hold('on')
+# plt.hold('on')
 plt.plot(X_plot, y_svr, c='r',
          label='SVR (fit: %.3fs, predict: %.3fs)' % (svr_fit, svr_predict))
 plt.plot(X_plot, y_kr, c='g',
@@ -188,4 +138,3 @@ plt.title('Learning curves')
 plt.legend(loc="best")
 
 plt.show()
-'''
