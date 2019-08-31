@@ -2,11 +2,6 @@
 # -*- coding:utf-8 -*-
 
 '''
-Created on Oct 27, 2010
-Update  on 2017-05-18
-Logistic Regression Working Module
-Author: 小瑶
-GitHub: https://github.com/apachecn/AiLearning
 scikit-learn的例子地址：http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 '''
 
