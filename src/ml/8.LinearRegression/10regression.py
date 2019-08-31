@@ -1,6 +1,7 @@
 # -*- coding:utf8 -*-
-
 import math
+import os
+
 import matplotlib.pyplot as plt
 
 
@@ -16,10 +17,10 @@ def f(w, x):
 
 
 def gradient(data, w, j):
-    M = len(data)   # 样本数
+    M = len(data)  # 样本数
     N = len(data[0])
     i = 0
-    g = 0   # 当前维度的梯度
+    g = 0  # 当前维度的梯度
     while i < M:
         y = f(w, data[i])
         if (j != N - 1):
@@ -41,7 +42,7 @@ def isSame(a, b):
 
 
 def fw(w, data):
-    M = len(data)   # 样本数
+    M = len(data)  # 样本数
     N = len(data[0])
     i = 0
     s = 0
@@ -105,7 +106,7 @@ def calcAlpha(w, g, a, data):
 
     # 寻找合适的学习率a
     count = 50
-    while next > now - c1*a*dotProduct(g, g):
+    while next > now - c1 * a * dotProduct(g, g):
         a /= 2
         wNext = assign(w)
         numberProduct(a, g, wNext)
@@ -130,6 +131,14 @@ def normalize(g):
 
 
 def calcCoefficient(data, listA, listW, listLostFunction):
+    '''
+    梯度下降法求回归参数
+    :param data:
+    :param listA:
+    :param listW:
+    :param listLostFunction:
+    :return:
+    '''
     N = len(data[0])  # 维度
     w = [0 for i in range(N)]
     wNew = [0 for i in range(N)]
@@ -159,10 +168,11 @@ def calcCoefficient(data, listA, listW, listLostFunction):
 
 
 if __name__ == "__main__":
-    fileData = open("d8.txt")
+    path = os.path.abspath('./data/')
+    fileData = open(path + 'd8.txt')
     data = []
     for line in fileData:
-        d = list( map(float, line.split('\t')))
+        d = list(map(float, line.split('\t')))
         data.append(d)
     fileData.close()
     listA = []  # 每一步的学习率
